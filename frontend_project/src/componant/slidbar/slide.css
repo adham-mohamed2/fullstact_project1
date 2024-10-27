@@ -1,0 +1,13 @@
+.button-div{
+    padding:5px 10px;
+    color:#000;
+    transition: .4s;
+    border-radius: 10px;
+}
+.button-div:hover{
+    background-color:#a0c8cf;
+}
+.active{
+    background-color:#a0c8cf;
+    border-radius: 10px;
+}
